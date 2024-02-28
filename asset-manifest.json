@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bit_07_01_homework_simple-react-page-design/static/css/main.73312066.css",
+    "main.js": "/bit_07_01_homework_simple-react-page-design/static/js/main.166bb02a.js",
+    "static/media/user.png": "/bit_07_01_homework_simple-react-page-design/static/media/user.b6fa15cc94257f88075c.png",
+    "index.html": "/bit_07_01_homework_simple-react-page-design/index.html",
+    "main.73312066.css.map": "/bit_07_01_homework_simple-react-page-design/static/css/main.73312066.css.map",
+    "main.166bb02a.js.map": "/bit_07_01_homework_simple-react-page-design/static/js/main.166bb02a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73312066.css",
+    "static/js/main.166bb02a.js"
+  ]
+}
